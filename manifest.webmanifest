@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "Fate's Calling \u2014 Classroom D20",
+  "short_name": "Fate's Calling",
+  "description": "Offline fantasy D20 classroom student selector",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b0c16",
+  "theme_color": "#15121f",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
