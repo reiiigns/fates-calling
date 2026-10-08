@@ -8,3 +8,7 @@ node_modules/
 playwright-report/
 test-results/
 local-browser-check.png
+
+# Original local delivery package; extracted app files above are the deployable source.
+fates-calling-ipad-pwa.zip
+fates-calling-ipad-pwa/
