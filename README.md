@@ -2,7 +2,7 @@
 
 An offline-ready, Baldur's Gate-inspired classroom D20 roller. It randomly selects each student number once per round, with a 3D animated die, adjustable materials, generated roll audio, Theater Mode, and a persistent developer panel.
 
-Live site: https://opaquefilm.github.io/fates-calling/
+Live site: https://reiiigns.github.io/fates-calling/
 
 ## Features
 
@@ -15,7 +15,7 @@ Live site: https://opaquefilm.github.io/fates-calling/
 
 ## Install on iPad
 
-1. Open https://opaquefilm.github.io/fates-calling/ in Safari.
+1. Open https://reiiigns.github.io/fates-calling/ in Safari.
 2. Tap **Share**.
 3. Choose **Add to Home Screen**.
 4. Tap **Add**.
