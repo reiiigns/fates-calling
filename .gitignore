@@ -1,0 +1,10 @@
+# Local editor and operating-system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local test artifacts
+node_modules/
+playwright-report/
+test-results/
+local-browser-check.png
